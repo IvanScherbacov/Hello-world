@@ -2,4 +2,8 @@
  My first repository on GitHub
  
  
-I love :coffee: :car: and :pizza:
+I love 
+:coffee: 
+:car:
+:pizza:
+:apple:
